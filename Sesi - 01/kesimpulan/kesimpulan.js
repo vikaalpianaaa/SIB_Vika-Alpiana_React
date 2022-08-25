@@ -19,7 +19,7 @@ let varName = "Nama variabel javascript dapat menggunakan huruf, angka, garis ba
 console.log(varName);
 
 // 6. Apa itu Tipe Data
-let tipeData = "Tipe Data adalah jenis-jenis data yang dapat disimpan dalam variabel"
+let tipeData = "Tipe Data adalah jenis-jenis data yang dapat disimpan dalam variabel";
 console.log(tipeData);
 
 // 7. Berbagai jenis tipe data 
