@@ -20,11 +20,11 @@ console.log(varName);
 
 // 6. Apa itu Tipe Data
 let tipeData = "Tipe Data adalah jenis-jenis data yang dapat disimpan dalam variabel"
-console.log(tipeData)
+console.log(tipeData);
 
 // 7. Berbagai jenis tipe data 
 let jenistipeData = "Tipe data yang dapat digunakan dalam JavaScript adalah String, Number, Float, Boolean, Object, Array";
-console.log(jenistipeData)
+console.log(jenistipeData);
 
 // 8. Tipe data Number dan pengoperasiannya
 let tipeDataNumber = "Sebuah tipe data yang hanya bisa diisi dengan Number. caranya dengan memasukan sebuah data atau nilai angka kedalam variabel ";
