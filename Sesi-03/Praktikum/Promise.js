@@ -17,4 +17,3 @@ const setTimeoutPromise = (duration) => {
 };
 
 setTimeoutPromise(1000).then(() => console.log("tick"));
-
