@@ -80,7 +80,7 @@ function App() {
           <article className="thirdArticle">
             <div className="profileMembers">
               <div className="image">
-                <img src="" alt="" />
+                <img src="" ></img>
               </div>
               <div class="nameProfile">
                 <p>Organizers</p>
