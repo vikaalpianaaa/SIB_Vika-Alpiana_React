@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import React, {useState} from 'react'
 
-function pastmeetups( {  }){
+function Pastmeetups( {  }){
     const [getBtnValue, setBtnValue] = useState("")
 
     const changeBtnValue = () => {
@@ -11,7 +11,7 @@ function pastmeetups( {  }){
     return(
         <div className="container-past"> 
             <div className="card">
-                <p>25 November 2017</p>
+                <p>27 November 2017</p>
                 <hr></hr>
                 <p>#39 JakartaJS April Meetup with kumparan</p>
                 <p>139 went</p>
@@ -32,7 +32,7 @@ function pastmeetups( {  }){
                 <p>27 September 2017</p>
                 <hr></hr>
                 <p>#37 JakartaJS April Meetup with Hacktiv8</p>
-                <p>111 went</p>
+                <p>110 went</p>
                 <Button variant="secondary" size="lg">
                 View
                 </Button>
@@ -41,4 +41,4 @@ function pastmeetups( {  }){
     )
 }
 
-export default pastmeetups
+export default Pastmeetups

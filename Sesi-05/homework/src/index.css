@@ -29,6 +29,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
 
 li:hover a{
@@ -41,12 +42,13 @@ li:hover a{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
 
 
 .login {
   float:right;
-  margin-left: 800px;
+  margin-left: 1000px;
 }
 
 .meetup-now{
@@ -93,6 +95,8 @@ li:hover a{
 
 .text-next{
   padding: 10px;
+  margin: 20px;
+  font-weight: bold;
 }
 
 .next{
@@ -134,8 +138,8 @@ li:hover a{
 
 .card{
   background-color:rgb(179, 180, 183);
-  padding: 40px;
-  margin: 40px;
+  padding: 70px;
+  margin: 20px;
   font-weight: bold;
  
 }
