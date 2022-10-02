@@ -1,14 +1,24 @@
-.demo {
-    text-align: center;
-    margin: 2rem;
-    margin-top: 5rem;
+.App {
+  text-align: center;
 }
 
-#counter {
-    margin: 2rem;
+#demo {
+  width: 500px;
+  margin : 0 auto;
+  text-align: center;
 }
 
-button, input {
-    font-size: 24px;
-    padding: 1rem;
+table{
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+
+th{
+  padding: 5px;
+  background-color: #3C5186;
+  color : #FFF5DE
+}
+
+td{
+  padding: 5px;
 }

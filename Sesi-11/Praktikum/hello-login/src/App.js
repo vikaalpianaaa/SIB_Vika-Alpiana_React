@@ -1,10 +1,10 @@
 import './App.css';
-import UsersList from './feature/users/UsersList';
+import AuthLoginForm from './feature/auth/AuthLoginForm'
 
 function App() {
   return (
     <div className="App">
-      <UsersList />
+      <AuthLoginForm />
     </div>
   );
 }
