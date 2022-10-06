@@ -13,8 +13,6 @@ const Users = () => {
 
     return (
         <>
-        <div>
-        </div>
             <Link to="/" className="btn btn-success btn-lg mb-4" type="button" role="button">
                 Back to Home
             </Link>
