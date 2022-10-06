@@ -25,9 +25,9 @@ const About = () => {
               <p>Hobi : Futsal </p>
             </h5><br />
             <h2 className="my-4">
-              <b>Progress Aplikasi per sesi</b>
+              <b>Progress</b>
             </h2>
-            <h5>Sesi 1 s.d 12 sudah/done</h5>
+            <h5>Sesi 1 s.d 13 sudah/done</h5>
 
           </div>
         </div>
